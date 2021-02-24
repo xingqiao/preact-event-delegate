@@ -1,4 +1,4 @@
-# preact-dom-delegate
+# preact-event-delegate
 
 [![NPM Version](https://img.shields.io/npm/v/preact-event-delegate.svg?style=flat-square)](https://www.npmjs.com/package/preact-event-delegate)
 [![NPM Downloads](https://img.shields.io/npm/dm/preact-event-delegate.svg?style=flat-square)](https://www.npmjs.com/package/preact-event-delegate)
