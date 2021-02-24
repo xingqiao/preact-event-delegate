@@ -1,0 +1,26 @@
+{
+    "name": "preact-event-delegate",
+    "description": "DOM events delegate for Preact X",
+    "version": "1.0.0",
+    "author": "xingqiao <cctshiyu@126.com>",
+    "main": "index.js",
+    "module": "index.js",
+    "keywords": [
+        "preact",
+        "dom",
+        "event",
+        "delegate"
+    ],
+    "scripts": {
+        "publish": "npm publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xingqiao/preact-event-delegate.git"
+    },
+    "readmeFilename": "README.md",
+    "license": "MulanPSL-2.0",
+    "dependencies": {
+        "preact": "^10.5.12"
+    }
+}
